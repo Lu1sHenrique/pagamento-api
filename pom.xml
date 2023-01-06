@@ -8,11 +8,11 @@
 		<version>3.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.api_rest_pag</groupId>
-	<artifactId>api_rest_pag</artifactId>
+	<groupId>com.rest_api_pag</groupId>
+	<artifactId>rest_api_pag</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>api_rest_pag</name>
-	<description>Demo project for Spring Boot</description>
+	<name>rest_api_pag</name>
+	<description>Desafio tecnico</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
