@@ -1,4 +1,4 @@
-package com.apipag.boot;
+package com.api_rest_pag;
 
 import java.util.List;
 

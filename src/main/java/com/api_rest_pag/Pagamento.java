@@ -1,4 +1,4 @@
-package com.apipag.boot;
+package com.api_rest_pag;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
