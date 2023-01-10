@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.pagamento.service.IPagamentoServico"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="com.pagamento.exeption.ExceptionResponse"/>
+    <fullyQualifiedTypeName name="com.pagamento.exeption.GenericException"/>
+    <fullyQualifiedTypeName name="com.pagamento.entity.StatusPagamento"/>
+    <fullyQualifiedTypeName name="com.pagamento.entity.MetodoPagamento"/>
+    <fullyQualifiedTypeName name="com.pagamento.dto.PagamentoDto"/>
+    <fullyQualifiedTypeName name="com.pagamento.entity.Pagamento"/>
+</qualifiedTypeNameHistroy>
